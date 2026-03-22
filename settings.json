@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ardizhubi.aternos.me",
-    "port": 48335,
-    "version": "1.20.6"
+    "ip": "PRIME-XD.aternos.me",
+    "port": 48129,
+    "version": "1.20.11"
   },
   "position": {
     "enabled": true,
